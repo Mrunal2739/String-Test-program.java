@@ -3,10 +3,13 @@
 import java.util.Scanner;
 
 public class Stringtest {
+
   
   public static void reverseString(char[]ch,int length) {
   
+  
     if(length>0) {
+    
     
       System.out.print (ch[length-1]);
       
